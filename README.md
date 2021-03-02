@@ -20,3 +20,17 @@ Each dataset has a subfolder in the Data directory, in each subfolder you can fi
 
 ## Citations:
 If you find this repository helpful please cite the associated paper:
+@article{Murgatroyd2021,
+author = {Murgatroyd, Philip A. E. and Routledge, Kieran and Durdy, Samantha and Gaultois, Michael W. and Surta, T. Wesley and Dyer, Matthew S. and Claridge, John B. and Savvin, Stanislav N. and Pelloquin, Denis and H{\'{e}}bert, Sylvie and Alaria, Jonathan},
+doi = {10.1002/adfm.202100108},
+issn = {1616-301X},
+journal = {Advanced Functional Materials},
+keywords = {chemical control,computational proxy,machine learning,magnetic materials,magnetocalorics},
+month = {feb},
+pages = {2100108},
+publisher = {John Wiley & Sons, Ltd},
+title = {{Chemically Controllable Magnetic Transition Temperature and Magneto‐Elastic Coupling in MnZnSb Compounds}},
+url = {https://onlinelibrary.wiley.com/doi/10.1002/adfm.202100108},
+year = {2021}
+}
+
