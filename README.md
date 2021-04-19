@@ -17,6 +17,9 @@ Each dataset has a subfolder in the Data directory, in each subfolder you can fi
 * The dataset as paired for use in the substitional predictions
 * Leave one cluster out cross validation splits (for k = 2 to k=10) for both the paired and normal versions of this dataset
 
+## Machine Learning Code
+
+To be uploaded. This code predicts a veriety of unit cell lattice parameters from composition. Predictions are made either as a regressor or through ordinal classification as discussed in the associated paper. Ordinal classification is helpful for substituional studies. For example one might ask "if I replace Manganese with Chromium in my compound will the C:A ratio get larger or smaller?" this resulted in more accurate predictions, though it does require knowledge of lattice parameters in the original compound. This is useful where the affect of a phenomena is associated with lattice parameters for example magneto calorics in the PbFCl family (as discussed in the associated paper), however this concept could be applied more broadly to any property prediction problem that will be investigated with substituional study
 
 ## Citations:
 If you find this repository helpful please cite the associated paper:
