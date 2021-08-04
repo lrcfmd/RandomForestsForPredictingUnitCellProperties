@@ -27,6 +27,7 @@ Two ipynb files have been uploaded:
 
 ## Citations:
 If you find this repository helpful please cite the associated paper:
+
 @article{Murgatroyd2021,
 author = {Murgatroyd, Philip A. E. and Routledge, Kieran and Durdy, Samantha and Gaultois, Michael W. and Surta, T. Wesley and Dyer, Matthew S. and Claridge, John B. and Savvin, Stanislav N. and Pelloquin, Denis and H{\'{e}}bert, Sylvie and Alaria, Jonathan},
 doi = {10.1002/adfm.202100108},
